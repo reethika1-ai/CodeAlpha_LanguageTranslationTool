@@ -22,27 +22,21 @@ CodeAlpha_LanguageTranslationTool/
 │── requirements.txt   # Required Python packages
 └── README.md          # Project documentation
 
-Setup & Installation:
-
 1.Clone the repository:
-
 Bash
-git clone [https://github.com/allurineraj/CodeAlpha_LanguageTranslationTool.git](https://github.com/allurineraj/CodeAlpha_LanguageTranslationTool.git)
+git clone [https://github.com/reethika1-ai/CodeAlpha_LanguageTranslationTool.git](https://github.com/reethika1-ai/CodeAlpha_LanguageTranslationTool.git)
 cd CodeAlpha_LanguageTranslationTool
 
 2.Set up a virtual environment (optional but recommended):
-
 Bash
 python -m venv venv
 .\venv\Scripts\Activate.ps1
 
 3.Install dependencies:
-
 Bash
 pip install -r requirements.txt
 
 4.Run the application:
-
 Bash
 streamlit run app.py
 
